@@ -3,7 +3,7 @@
 /**
 * main - Entry point 
 *
-* Return: Always 0 (Successs)
+* Return: Always 0 (Success)
 */
 int main(void)
 {
@@ -12,6 +12,7 @@ int main(void)
 	while (ch != 'e' && ch != 'q')
 	{
 		putchar(ch);
+		ch++;
 	}
 	putchar('\n');
 
