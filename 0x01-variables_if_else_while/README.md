@@ -1,0 +1,1 @@
+Practicing if-else and while in c
