@@ -4,7 +4,7 @@
 * @n: accepts number
 * Return: the number itself if positive or zero, else the number multiplied by -1
 */
-int _abs(int)
+int _abs(int n)
 {
 	if (n < 0)
 		return (n * -1);
