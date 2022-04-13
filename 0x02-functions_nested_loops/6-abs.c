@@ -2,7 +2,7 @@
 /**
 * _abs - retruns the absolute value of a number
 * @n: accepts number
-* Return: the number itself if positive or zero, else the number multiplied by -1
+* Return: n if positive or zero,else n*-1
 */
 int _abs(int n)
 {
