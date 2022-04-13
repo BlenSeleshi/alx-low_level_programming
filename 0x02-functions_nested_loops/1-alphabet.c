@@ -4,7 +4,7 @@
 * @void: no argument
 * return: 0
 **/
-void print_alpahbet(void)
+void print_alphabet(void)
 {
 	char ch;
 
