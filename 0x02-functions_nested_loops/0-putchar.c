@@ -2,17 +2,17 @@
 /**
 * main - Entry block
 * @void: no argument
-* Return: 0
+* Return 0
 **/
-int main (void)
+int main(void)
 {
 	char putC[] = "_putchar";
 
-	int length;
+	int l;
 
-	for (length = 0; length < 8; length++)
+	for(l = 0; l < 8; l++)
 	{
-		_putchar(putC[length]);
+		_putchar(putC[l]);
 	}
 	_putchar('\n');
 	return (0);
